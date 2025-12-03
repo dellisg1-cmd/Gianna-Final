@@ -28,7 +28,7 @@ This repository contains all materials for a replication/analysis project invest
 5. Ensure all categorical levels correspond to the codebook exactly (no extra whitespace, capitalization mismatches, etc.).  
 6. Output cleaned dataset to `Data/data.csv`.  
 
-## 📊 Analysis Script  
+##  Analysis Script  
 
 The `analysis.R` file performs the following:  
 - Imports `Data/data.csv`.  
